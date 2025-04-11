@@ -2,6 +2,5 @@
 
 int main() {
 	printf("あやや");
-
 	return 0;
 }
